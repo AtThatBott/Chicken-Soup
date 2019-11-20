@@ -36,6 +36,8 @@
  *   - Jump Speed: 8
  *   - Hold Jump to BHOP - TRUE
  *   - FPS Display Rate: 4
+ *
+ *   -----------------------------
  */
 
 using System.Collections;
